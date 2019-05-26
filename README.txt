@@ -1,17 +1,19 @@
 = autotest
 
-* http://www.zenspider.com/ZSS/Products/ZenTest/
-* http://rubyforge.org/projects/zentest/
-* mailto:ryand-ruby@zenspider.com
+home :: http://www.zenspider.com/projects/minitest-autotest.html
+code :: https://github.com/seattlerb/autotest
+bugs :: https://github.com/seattlerb/autotest/issues
 
 == DESCRIPTION:
 
 This is a stub gem to fix the confusion caused by autotest being part
-of the ZenTest suite.
+of the ZenTest suite. In now points to minitest-autotest as that has
+been extracted and massively enhanced beyond the original ZenTest
+autotest.
 
 == REQUIREMENTS:
 
-* ZenTest
+* minitest-autotest
 
 == INSTALL:
 
